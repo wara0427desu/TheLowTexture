@@ -1,0 +1,2 @@
+# TheLowTexture
+minecraftサーバーTheLow用のリソースパックです
